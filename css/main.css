@@ -1,0 +1,39 @@
+*
+{
+
+padding:0;
+margin:0;
+max-width: 100%;
+font-family: 'DM Sans', sans-serif;
+
+}
+
+
+.nav-padding{
+    padding-right:10%;
+}
+
+  
+.footer  {
+    clear: both;
+    background-color: #085B33;
+    
+  }
+  
+  .footer a{
+      text-decoration: none;
+      color:white;
+  }
+  .footer a:hover{
+      color:grey;
+  }
+  .bbackground{
+    background-color: #0F8B34;
+    color:white;
+    
+
+  }
+  .justifytext{
+    text-align: justify;
+    text-justify: inter-word;
+  }
